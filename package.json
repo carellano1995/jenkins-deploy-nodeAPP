@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-deploy-nodeapp",
+  "version": "1.0.0",
+  "description": "Upload node app wiith jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carellano1995/jenkins-deploy-nodeAPP.git"
+  },
+  "author": "cristian arellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carellano1995/jenkins-deploy-nodeAPP/issues"
+  },
+  "homepage": "https://github.com/carellano1995/jenkins-deploy-nodeAPP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
